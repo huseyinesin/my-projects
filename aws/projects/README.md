@@ -10,9 +10,9 @@ List of projects within AWS workshop as follows;
 
 4. - [Project-004 : Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using AWS Cloudformation](./Project-004-Phonebook-Application/README.md)
 
-5. - [Project-005 : Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](./Project-005-kittens-carousel-static-web-s3-cf/README.md)
+5. - [Project-006 : Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](./Project-006-kittens-carousel-static-web-s3-cf/README.md)
 
-6. - [Project-006 : Capstone Project Blog Page App (Django) on AWS Environment](./Project-006-Capstone-Project-Blog-Page-App-Django-on-AWS-Environment/README.md)
+6. - [Project-007 : Capstone Project Blog Page App (Django) on AWS Environment](./Project-007-Capstone-Project-Blog-Page-App-Django-on-AWS-Environment/README.md)
 
 
 
