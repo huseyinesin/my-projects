@@ -1,5 +1,14 @@
-# Linux Projects
+# Linux Workshop
 
-List of projects within Linux workshop as follows;
+Linux Workshop contains hands-on trainings and projects.
 
-5. - [Project-005 : Backup, User and Group Management, String Manipulation with Linux Commands and Bash Scripting](./projects/README.md)
+- [List of Linux Hands-on Trainings](./Hands-on/README.md)
+
+- [List of Linux Projects](./projects/README.md)
+
+
+## Naming Convention for Folders 
+
+- Use lower case letters to name the folders.
+
+- The name of the folder should give detailed info about it's contents such as date/session, instructor and title:
