@@ -15,3 +15,5 @@ List of hands-on trainings within Kubernetes workshop as follows;
 - [kubernetes-05-secrets-configmap](./kubernetes-05-secrets-configmap/README.md)
 
 - [kubernetes-06-microservice-deployment-and-autoscaling](./kubernetes-06-microservice-deployment-and-autoscaling/README.md)
+
+- [eks-01-managing-kubernete-cluster-with-eks](./eks-01-managing-kubernete-cluster-with-eks/README.md)
