@@ -11,3 +11,7 @@ List of hands-on trainings within Kubernetes workshop as follows;
 - [kubernetes-03-networking-service-discovery](./kubernetes-03-networking-service-discovery/README.md)
 
 - [kubernetes-04-pods-volumes](./kubernetes-04-pods-volumes/README.md)
+
+- [kubernetes-05-secrets-configmap](./kubernetes-05-secrets-configmap/README.md)
+
+- [kubernetes-06-microservice-deployment-and-autoscaling](./kubernetes-06-microservice-deployment-and-autoscaling/README.md)
