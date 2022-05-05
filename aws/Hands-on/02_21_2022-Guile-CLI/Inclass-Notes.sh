@@ -114,13 +114,13 @@ aws s3 cp in-class.yaml s3://guile-cli-bucket
 
 aws s3 ls s3://guile-cli-bucket
 
-aws s3 ls s3://murat-cli-bucket/ --recursive 
+aws s3 ls s3://huseyin-cli-bucket/ --recursive 
 
 aws s3 rm s3://guile-cli-bucket/in-class.yaml
 
 aws s3 rb s3://guile-cli-bucket
 
-aws s3 rb s3://murat-cli-bucket/ --force
+aws s3 rb s3://huseyin-cli-bucket/ --force
 
 
 # EC2
