@@ -2,7 +2,7 @@
 
 Docker Workshop contains hands-on trainings and projects.
 
-- [List of Docker Hands-on Trainings](./Hands-on/README.md)
+- [List of Docker Hands-on Trainings](./hands-on/README.md)
 
 - [List of Docker Projects](./projects/README.md)
 

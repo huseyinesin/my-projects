@@ -2,7 +2,7 @@
 
 Terraform Workshop contains hands-on trainings and projects.
 
-- [List of Terraform Hands-on Trainings](./Hands-on/README.md)
+- [List of Terraform Hands-on Trainings](./hands-on/README.md)
 
 - [List of Terraform Projects](./projects/README.md)
 
