@@ -17,3 +17,8 @@ List of hands-on trainings within Kubernetes workshop as follows;
 - [kubernetes-06-microservice-deployment-and-autoscaling](./kubernetes-06-microservice-deployment-and-autoscaling/README.md)
 
 - [eks-01-managing-kubernete-cluster-with-eks](./eks-01-managing-kubernete-cluster-with-eks/README.md)
+
+- [eks-02-DynamicVolumeProvisionining-and-Ingress](./eks-02-DynamicVolumeProvisionining-and-Ingress/README.md)
+
+- [eks-03-AWS-EKS-ALB-ingress](./eks-03-AWS-EKS-ALB-ingress/README.md)
+
