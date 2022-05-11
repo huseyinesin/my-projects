@@ -22,3 +22,8 @@ List of hands-on trainings within Kubernetes workshop as follows;
 
 - [eks-03-AWS-EKS-ALB-ingress](./eks-03-AWS-EKS-ALB-ingress/README.md)
 
+- [kubernetes-08-helm-basic-operations](./kubernetes-08-helm-basic-operations/README.md)
+
+- [kubernetes-09-Liveness-Readiness-and-Startup-Probes](./kubernetes-09-Liveness-Readiness-and-Startup-Probes/README.md)
+
+- [kubernetes-12-pod-scheduling](./kubernetes-12-pod-scheduling/README.md)
