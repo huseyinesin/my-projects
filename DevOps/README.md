@@ -6,7 +6,7 @@ DevOps Workshop contains hands-on trainings and projects.
 
 2. [DOCKER](./Docker/README.md)
 
-1. [KUBERNETES](./Kubernetes/README.md)
+3. [KUBERNETES](./Kubernetes/README.md)
 
 ## Naming Convention for Folders 
 
