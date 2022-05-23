@@ -8,6 +8,8 @@ DevOps Workshop contains hands-on trainings and projects.
 
 3. [KUBERNETES](./Kubernetes/README.md)
 
+4. [ANSIBLE](./Ansible/README.md)
+
 ## Naming Convention for Folders 
 
 - Use lower case letters to name the folders.
